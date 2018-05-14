@@ -15,6 +15,13 @@ http://www.sumsar.net/blog/2014/12/peter-norvigs-spell-checker-in-two-lines-of-r
 
 https://amunategui.github.io/peter_norvig_magic_spell_checker/index.html
 
+http://www.sumsar.net/blog/2014/12/peter-norvigs-spell-checker-in-two-lines-of-r/
+
+https://amunategui.github.io/peter_norvig_magic_spell_checker/index.html
+http://www.sumsar.net/blog/2014/12/peter-norvigs-spell-checker-in-two-lines-of-r/
+
+https://amunategui.github.io/peter_norvig_magic_spell_checker/index.html
+
 
 ## R Markdown
 
